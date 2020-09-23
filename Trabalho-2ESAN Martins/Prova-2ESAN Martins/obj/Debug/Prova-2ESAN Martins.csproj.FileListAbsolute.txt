@@ -1,0 +1,15 @@
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Prova-2ESAN Martins.exe.config
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Prova-2ESAN Martins.exe
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Prova-2ESAN Martins.pdb
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.csprojAssemblyReference.cache
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova_2ESAN_Martins.Login.resources
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova_2ESAN_Martins.Properties.Resources.resources
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.csproj.GenerateResource.cache
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.csproj.CoreCompileInputs.cache
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.exe
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.pdb
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova_2ESAN_Martins.Sistema.resources
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Trabalho-2ESAN Martins.exe
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Trabalho-2ESAN Martins.pdb
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\bin\Debug\Trabalho-2ESAN Martins.exe.config
+C:\Users\Thyst\source\repos\Trabalho-2ESAN Martins\Prova-2ESAN Martins\obj\Debug\Prova-2ESAN Martins.csproj.CopyComplete
